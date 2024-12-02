@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 # README.md
 
-I'm Luigi Gonnella, currently studying software engineering. [![My Skills](https://skillicons.dev/icons?i=cmake,html,css,c,figma,git,github,gitlab,java,matlab,ps,py,sqlite,ubuntu)](https://skillicons.dev)
+I'm Luigi Gonnella, currently studying software engineering.
+
+[![My Skills](https://skillicons.dev/icons?i=cmake,html,css,c,figma,git,github,gitlab,java,matlab,ps,py,sqlite,ubuntu)](https://skillicons.dev)
