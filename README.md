@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 I'm Luigi Gonnella, currently studying software engineering.
 
-[![My Skills](https://skillicons.dev/icons?i=cmake,html,css,c,figma,git,github,gitlab,java,matlab,ps,py,sqlite,ubuntu,bash,django,flask,junit,javascrip,jetbrains,linux,moodle,numpy,pandas,vscode,embeddedc,assembly,assemblyARM,mips64)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cmake,html,css,c,figma,git,github,gitlab,java,matlab,ps,py,sqlite,ubuntu,bash,django,flask,linux,moodle,numpy,pandas,vscode,embeddedc,assembly,assemblyARM,mips64)](https://skillicons.dev)
