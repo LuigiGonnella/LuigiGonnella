@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 # README.md
 
-I'm Luigi Gonnella, currently studying software engineering.
+I'm Luigi Gonnella, Machine Learning and Deep Learning enthusiast, with interest in NLP and Computer Vision.
+Currently studying Software Engineering.
 
 [![My Skills](https://skillicons.dev/icons?i=cmake,html,css,c,figma,git,github,gitlab,java,matlab,ps,py,sqlite,ubuntu,bash,django,flask,linux,vscode,javascript,node.js)](https://skillicons.dev)
