@@ -114,9 +114,13 @@ I'm a passionate AI/ML and Software Engineer who loves building innovative solut
 
 <div align="center">
 
-[![GAN Project](https://github.com/LuigiGonnella/GAN-for-Data-Augmentation-and-Domain-Adaptation/raw/main/preview.jpg)](https://github.com/LuigiGonnella/GAN-for-Data-Augmentation-and-Domain-Adaptation)
+<a href="https://github.com/LuigiGonnella/GAN-for-Data-Augmentation-and-Domain-Adaptation">
+  <img src="https://github.com/LuigiGonnella/GAN-for-Data-Augmentation-and-Domain-Adaptation/raw/main/preview.jpg" width="200px" alt="GAN Project" />
+</a>
 
-[![LLM Architectures Project](https://github.com/LuigiGonnella/Architectures-For-Code-Development-With-LLMs/raw/main/preview.jpg)](https://github.com/LuigiGonnella/Architectures-For-Code-Development-With-LLMs)
+<a href="https://github.com/LuigiGonnella/Architectures-For-Code-Development-With-LLMs">
+  <img src="https://github.com/LuigiGonnella/Architectures-For-Code-Development-With-LLMs/raw/main/preview.jpg" width="200px" alt="LLM Architectures Project" />
+</a>
 
 </div>
 
