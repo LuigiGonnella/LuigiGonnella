@@ -103,8 +103,8 @@ I'm a passionate AI/ML and Software Engineer who loves building innovative solut
 
 <div align="center">
   
-![Luigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuigiGonnella&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGonnella&layout=compact&theme=radical)
+![GitHub Followers](https://img.shields.io/github/followers/LuigiGonnella?label=Followers&style=for-the-badge)
+![Top Languages](https://img.shields.io/github/languages/top/LuigiGonnella?style=for-the-badge)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuigiGonnella&theme=tokyonight&hide_border=true)
 
 </div>
@@ -115,8 +115,9 @@ I'm a passionate AI/ML and Software Engineer who loves building innovative solut
 
 <div align="center">
 
-![Project 1](https://github.com/LuigiGonnella/GAN-for-Data-Augmentation-and-Domain-Adaptation)
-![Project2](https://github.com/LuigiGonnella/Architectures-For-Code-Development-With-LLMs)
+[![GAN Project](https://github.com/LuigiGonnella/GAN-for-Data-Augmentation-and-Domain-Adaptation/raw/main/preview.png)](https://github.com/LuigiGonnella/GAN-for-Data-Augmentation-and-Domain-Adaptation)
+
+[![LLM Architectures Project](https://github.com/LuigiGonnella/Architectures-For-Code-Development-With-LLMs/raw/main/preview.png)](https://github.com/LuigiGonnella/Architectures-For-Code-Development-With-LLMs)
 
 </div>
 
