@@ -24,9 +24,8 @@ interests: ["Open Source", "AI/ML", "Software Development"]
 
 I'm a passionate AI/ML and Software Engineer who loves building innovative solutions and contributing to open-source projects. With a keen eye for detail and a commitment to writing clean, efficient code, I'm always exploring new technologies and pushing the boundaries of what's possible.
 
-🔭 **Currently working on:** Building scalable AI/ML projects 
-🌱 **Currently learning:** Advanced algorithms, system design, and DevOps practices  
-💬 **Ask me about:** ML pipelines, JavaScript, Python, React, Node.js, or anything tech-related  
+🔭 **Currently working on:** Building scalable AI/ML projects &nbsp;|&nbsp; 🌱 **Learning:** Advanced algorithms, system design & DevOps &nbsp;|&nbsp; 💬 **Ask me about:** ML pipelines, Python, PyTorch, Transformers
+
 ---
 
 ## 🛠️ Tech Stack & Skills
