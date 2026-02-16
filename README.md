@@ -104,7 +104,6 @@ I'm a passionate AI/ML and Software Engineer who loves building innovative solut
 <div align="center">
   
 ![GitHub Followers](https://img.shields.io/github/followers/LuigiGonnella?label=Followers&style=for-the-badge)
-![Top Languages](https://img.shields.io/github/languages/top/LuigiGonnella?style=for-the-badge)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuigiGonnella&theme=tokyonight&hide_border=true)
 
 </div>
