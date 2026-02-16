@@ -103,10 +103,8 @@ I'm a passionate AI/ML and Software Engineer who loves building innovative solut
 
 <div align="center">
   
-![Luigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuigiGonnella&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGonnella&layout=compact&theme=tokyonight&hide_border=true)
-
+![Luigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuigiGonnella&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGonnella&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuigiGonnella&theme=tokyonight&hide_border=true)
 
 </div>
