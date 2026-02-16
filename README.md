@@ -2,7 +2,7 @@
   
 # 👋 Hi there, I'm Luigi Gonnella!
 
-### 🚀 Software Developer | 💡 Problem Solver | 🌍 Tech Enthusiast
+### 🌍 AI Enthusiast | 🚀 Software Developer | 💡 Problem Solver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luigi-gonnella-466a36310/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.luigigonnella.dev/)
