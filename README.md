@@ -117,8 +117,8 @@ I'm a passionate AI/ML and Software Engineer who loves building innovative solut
 
 <div align="center">
 
-[![GAN-for-Data-Augmentation-and-Domain-Adaptation](https://github.com/LuigiGonnella/GAN-for-Data-Augmentation-and-Domain-Adaptation)
-[![Architectures-For-Code-Development-With-LLMs](https://github.com/LuigiGonnella/Architectures-For-Code-Development-With-LLMs)
+![Project 1](https://github.com/LuigiGonnella/GAN-for-Data-Augmentation-and-Domain-Adaptation)
+![Project2](https://github.com/LuigiGonnella/Architectures-For-Code-Development-With-LLMs)
 
 </div>
 
